@@ -1,6 +1,3 @@
-Yahan ek professional README template hai jo aap apne project ke liye GitHub par use kar sakte hain:
-
----
 
 # Todo List App
 
@@ -16,11 +13,6 @@ A simple, intuitive, and interactive To-Do List application created using HTML, 
 ## Live Demo
 
 Check out the live version of the app [here](https://todo-list-app-two-beryl.vercel.app/).
-
-## Screenshots
-
-![Todo App Screenshot](https://via.placeholder.com/800x400)  
-*Screenshot of the To-Do List App UI.*
 
 ## Installation
 
