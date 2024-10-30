@@ -41,9 +41,3 @@ To run the project locally, follow these steps:
 - **JavaScript** – Functionality and interaction.
 - **Local Storage** – Data persistence.
 
-## Future Enhancements
-
-- Add filtering and sorting options for tasks.
-- Add due dates and priority levels for better task management.
-- Implement dark mode for user convenience.
-
